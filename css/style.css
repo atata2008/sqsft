@@ -44,7 +44,7 @@ body {
 .header__nav-logo {
     height: 30px;
     width: 135px;
-    background-image: url(/images/logo.png);
+    background-image: url(../images/logo.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin-right: 60px;
@@ -66,7 +66,7 @@ body {
     border: none;
     border-radius: 0 5px 5px 0;
     cursor: pointer;
-    background-image: url(/images/loupe.png);
+    background-image: url(../images/loupe.png);
     background-repeat: no-repeat;
     color: #E5E5E5;
 }
@@ -105,7 +105,7 @@ body {
 .header__account-foto {
     height: 40px;
     width: 40px;
-    background-image: url(/images/foto.png);
+    background-image: url(../images/foto.png);
     background-repeat: no-repeat;
 }
 
